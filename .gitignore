@@ -1,0 +1,15 @@
+# Backend
+backend_absensi/app/node_modules/
+backend_absensi/app/.env
+
+# Frontend
+frontend_absensi/node_modules/
+frontend_absensi/.next/
+frontend_absensi/.env
+
+# General
+.env
+node_modules/
+.next/
+dist/
+build/
